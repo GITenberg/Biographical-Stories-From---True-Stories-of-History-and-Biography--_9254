@@ -1,0 +1,31 @@
+_repo: Biographical-Stories-From---True-Stories-of-History-and-Biography--_9254
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: Benjamin West. -Sir Isaac Newton. -Samuel Johnson. -Oliver Cromwell.
+  -Benjamin Franklin. -Queen Christina.
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Biography -- Juvenile literature'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Benjamin West -- Sir Isaac Newton -- Samuel Johnson -- Oliver Cromwell
+  -- Benjamin Franklin -- Queen Christina.
+title: 'Biographical Stories
+
+  (From: "True Stories of History and Biography")'
+url: http://www.gutenberg.org/ebooks/9254
