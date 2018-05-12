@@ -1,5 +1,8 @@
 _repo: Biographical-Stories-From---True-Stories-of-History-and-Biography--_9254
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hawthorne, Nathaniel
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
 description: Benjamin West. -Sir Isaac Newton. -Samuel Johnson. -Oliver Cromwell.
   -Benjamin Franklin. -Queen Christina.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9254#Biographical-Stories-From---True-Stories-of-History-and-Biography--
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
